@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hyenwoo's Profile </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 디지털 회로 설계를 희망하는 개발자입니다</li><li> 몰입과 끈기가 강점입니다(엉덩이 힘이 굉장히 강하답니다!)</li><li> 문제를 해결하고, 깊이 파고드는 것을 좋아합니다(학부 때 150/130 학점을 수강했습니다)</li><li> 끊임없이 배울 것을 찾는 성장가입니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 디지털 회로 설계를 희망하는 개발자입니다</li><li> 몰입과 끈기가 강점입니다</li><li> 문제를 해결하고, 깊이 파고드는 것을 좋아합니다(학부 때 150/130 학점을 수강했습니다)</li><li> 끊임없이 배울 것을 찾는 성장가입니다 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
